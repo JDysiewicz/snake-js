@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    border-spacing: none;
+};
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+};
+
+.gameboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas{
+    border: 1px solid red;
+};
+

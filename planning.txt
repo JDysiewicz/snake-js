@@ -1,0 +1,19 @@
+Planning
+---------
+- Create squar erepresenting head of snake
+- Keep track of where the head of the snake is
+- Segment snake into different....segments 
+- changing direction via switch and keyDown methods
+- place apples in canvas to grow chain
+- add one segment to snake length upon picking up apples
+- if head touches the rest of the snake, game over
+- if goes over one side of the board, wrap around to the next side
+
+
+
+
+
+Learned
+-----------
+- Canvas element; scaling issues with css size deifnition therefore do in HTML
+- Using canvas element; getContext method and its various uses
